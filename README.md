@@ -1,4 +1,4 @@
-#Sorting Algorithms Benchmark
+# Sorting Algorithms Benchmark
 
 ## 1. Project Overview
 The objective of this project was to implement, test, and benchmark nine different sorting algorithms to evaluate their performance characteristics. The evaluation was conducted by designing a custom C++ test case generator capable of producing both small-scale and large-scale datasets with varying distributions. All benchmarking and final validations were hosted and executed on the Polygon platform.
